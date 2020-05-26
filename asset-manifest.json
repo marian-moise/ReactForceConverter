@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactForceConverter/static/css/main.166c36e3.chunk.css",
+    "main.js": "/ReactForceConverter/static/js/main.8b23b748.chunk.js",
+    "main.js.map": "/ReactForceConverter/static/js/main.8b23b748.chunk.js.map",
+    "runtime-main.js": "/ReactForceConverter/static/js/runtime-main.2db88ed9.js",
+    "runtime-main.js.map": "/ReactForceConverter/static/js/runtime-main.2db88ed9.js.map",
+    "static/js/2.a687ed9d.chunk.js": "/ReactForceConverter/static/js/2.a687ed9d.chunk.js",
+    "static/js/2.a687ed9d.chunk.js.map": "/ReactForceConverter/static/js/2.a687ed9d.chunk.js.map",
+    "index.html": "/ReactForceConverter/index.html",
+    "precache-manifest.0431478b6e4b649257530bd5314ff27b.js": "/ReactForceConverter/precache-manifest.0431478b6e4b649257530bd5314ff27b.js",
+    "service-worker.js": "/ReactForceConverter/service-worker.js",
+    "static/css/main.166c36e3.chunk.css.map": "/ReactForceConverter/static/css/main.166c36e3.chunk.css.map",
+    "static/js/2.a687ed9d.chunk.js.LICENSE.txt": "/ReactForceConverter/static/js/2.a687ed9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2db88ed9.js",
+    "static/js/2.a687ed9d.chunk.js",
+    "static/css/main.166c36e3.chunk.css",
+    "static/js/main.8b23b748.chunk.js"
+  ]
+}
