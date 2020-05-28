@@ -1,0 +1,26 @@
+.input1 input {
+    background: navajowhite;
+    border: 0;
+    width: 200px;
+    height: 35px;
+    padding: 0 20px;
+    font-size: 15px;
+    border-radius: 10px;
+    color: darkslategray;
+    outline:none;
+    margin-left: 80px;
+}
+
+.input2 input {
+    background: navajowhite;
+    border: 0;
+    width: 200px;
+    height: 35px;
+    padding: 0 20px;
+    font-size: 15px;
+    border-radius: 10px;
+    color: darkslategray;
+    outline:none;
+    margin-left: 80px;
+    margin-top: 3px;
+}
